@@ -31,7 +31,7 @@ Contabilidad y sector de educación.
 
 ####  LENGUAJES 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,js&perline=3)](https://skillicons.dev)
 
 <p align="left">
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a> 
