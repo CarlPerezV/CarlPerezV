@@ -46,7 +46,7 @@ Contabilidad y sector de educación.
 
 ### OTROS
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
 
 ---
